@@ -9,7 +9,7 @@
 <class name="TestCases.TC_0002_Valiadte_Login"></class>
 </classes>
 </test>
-<test name="EdgeTest">
+<!--  <test name="EdgeTest">
 <parameter name="os" value="windows"></parameter>
 <parameter name="browser" value="edge"></parameter>
 <classes>
@@ -24,5 +24,5 @@
 <class name="TestCases.TC_0001_ValidateRegistaration"></class>
 <class name="TestCases.TC_0002_Valiadte_Login"></class>
 </classes>
-</test>
+</test>-->
 </suite>

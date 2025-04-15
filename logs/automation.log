@@ -1742,3 +1742,21 @@ Session ID: e41e00fa2303193b375f690218b0a922
 [INFO ] 2025-04-15 20:51:05.880 [TestNG-tests-1] TC_0001_ValidateRegistaration - validating confirmation message
 [DEBUG] 2025-04-15 20:51:05.960 [TestNG-tests-1] TC_0001_ValidateRegistaration - application log end...........
 [INFO ] 2025-04-15 20:51:05.960 [TestNG-tests-1] TC_0001_ValidateRegistaration - **************TC_0001_ValidateRegistaration ending***************
+[DEBUG] 2025-04-15 20:53:41.784 [TestNG-tests-1] TC_0001_ValidateRegistaration - application log started...........
+[INFO ] 2025-04-15 20:53:41.788 [TestNG-tests-1] TC_0001_ValidateRegistaration - **************TC_0001_ValidateRegistaration starting***************
+[INFO ] 2025-04-15 20:53:42.129 [TestNG-tests-1] TC_0001_ValidateRegistaration - click on my account page link
+[INFO ] 2025-04-15 20:53:42.683 [TestNG-tests-1] TC_0001_ValidateRegistaration - click on my registration link
+[INFO ] 2025-04-15 20:53:42.688 [TestNG-tests-1] TC_0001_ValidateRegistaration - Entering user details..
+[INFO ] 2025-04-15 20:53:44.277 [TestNG-tests-1] TC_0001_ValidateRegistaration - Clicked on continue
+[INFO ] 2025-04-15 20:53:45.084 [TestNG-tests-1] TC_0001_ValidateRegistaration - validating confirmation message
+[DEBUG] 2025-04-15 20:53:45.144 [TestNG-tests-1] TC_0001_ValidateRegistaration - application log end...........
+[INFO ] 2025-04-15 20:53:45.145 [TestNG-tests-1] TC_0001_ValidateRegistaration - **************TC_0001_ValidateRegistaration ending***************
+[DEBUG] 2025-04-15 20:53:45.289 [TestNG-tests-3] TC_0001_ValidateRegistaration - application log started...........
+[INFO ] 2025-04-15 20:53:45.290 [TestNG-tests-3] TC_0001_ValidateRegistaration - **************TC_0001_ValidateRegistaration starting***************
+[INFO ] 2025-04-15 20:53:45.603 [TestNG-tests-3] TC_0001_ValidateRegistaration - click on my account page link
+[INFO ] 2025-04-15 20:53:46.143 [TestNG-tests-3] TC_0001_ValidateRegistaration - click on my registration link
+[INFO ] 2025-04-15 20:53:46.144 [TestNG-tests-3] TC_0001_ValidateRegistaration - Entering user details..
+[INFO ] 2025-04-15 20:53:47.443 [TestNG-tests-3] TC_0001_ValidateRegistaration - Clicked on continue
+[INFO ] 2025-04-15 20:53:48.207 [TestNG-tests-3] TC_0001_ValidateRegistaration - validating confirmation message
+[DEBUG] 2025-04-15 20:53:48.258 [TestNG-tests-3] TC_0001_ValidateRegistaration - application log end...........
+[INFO ] 2025-04-15 20:53:48.258 [TestNG-tests-3] TC_0001_ValidateRegistaration - **************TC_0001_ValidateRegistaration ending***************
